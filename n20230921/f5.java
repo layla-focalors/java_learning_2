@@ -1,4 +1,5 @@
 package n20230921;
+import java.util.Scanner;
 
 public class f5 {
     public static void main(String[] args){
@@ -9,11 +10,14 @@ public class f5 {
         }else {
             System.out.println("false");
         }
-        
+
         if(game_id.equals("layla-focalors")){
             System.out.println("아이디가 일치합니다.");
         }else {
             System.out.println("아이디가 일치하지 않습니다.");
         }
+
+        // else - if
+
     }
 }
