@@ -9,5 +9,7 @@ public class f3 {
         (number > 100) && (number <= 200));
         // System.out.println((number > 100) && (number <= 200));
         System.out.printf("number가 짝수이거나 1인가? [%b]",(number%2==0) || (number==1));
+
+        
     }
 }
