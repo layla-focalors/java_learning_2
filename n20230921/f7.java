@@ -18,7 +18,7 @@ public class f7 {
                     break;
                 }
                 case "E003" -> {
-                    System.out.println("노아에요");
+                    System.out.println("노아");
                     break;
                 }
                 default -> {
